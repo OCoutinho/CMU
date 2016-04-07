@@ -25,7 +25,6 @@ public class LoginActivity extends AppCompatActivity {
     };
 
 
-
     private void guiSetButtonListeners() {
 
         findViewById(R.id.btnLOGIN2).setOnClickListener(btnLOGIN2);
